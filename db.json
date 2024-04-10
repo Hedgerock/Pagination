@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": "68f7",
+      "price": 150,
+      "title": "Potato",
+      "category": "Vegetables"
+    },
+    {
+      "id": "56fe",
+      "price": 170,
+      "title": "Tomato",
+      "category": "Vegetables"
+    },
+    {
+      "id": "adc3",
+      "price": 165,
+      "title": "Onion",
+      "category": "Vegetables"
+    },
+    {
+      "id": "5d88",
+      "price": 220,
+      "title": "Peach",
+      "category": "Fruits"
+    },
+    {
+      "id": "0db5",
+      "price": 225,
+      "title": "Pork",
+      "category": "Meat"
+    },
+    {
+      "id": "3e62",
+      "price": 250,
+      "title": "Kiwi",
+      "category": "Fruits"
+    },
+    {
+      "id": "26a3",
+      "price": 130,
+      "title": "Redish",
+      "category": "Vegetables"
+    },
+    {
+      "id": "95b2",
+      "price": 175,
+      "title": "Cabbage",
+      "category": "Vegetables"
+    },
+    {
+      "id": "fcc2",
+      "price": 140,
+      "title": "Carrot",
+      "category": "Vegetables"
+    },
+    {
+      "id": "e242",
+      "price": 275,
+      "title": "Beaf",
+      "category": "Meat"
+    },
+    {
+      "id": "88ed",
+      "price": 200,
+      "title": "Hen",
+      "category": "Meat"
+    },
+    {
+      "id": "944e",
+      "price": 165,
+      "title": "Apricot",
+      "category": "Fruits"
+    },
+    {
+      "id": "bacf",
+      "price": 300,
+      "title": "Rabbit",
+      "category": "Meat"
+    },
+    {
+      "id": "7c04",
+      "price": 350,
+      "title": "Duck",
+      "category": "Meat"
+    },
+    {
+      "id": "b1d8",
+      "price": 235,
+      "title": "Lamb",
+      "category": "Meat"
+    },
+    {
+      "id": "f3f7",
+      "price": 90,
+      "title": "Brocoli",
+      "category": "Vegetables"
+    },
+    {
+      "id": "ef4d",
+      "price": 260,
+      "title": "Boar",
+      "category": "Meat"
+    },
+    {
+      "id": "c618",
+      "price": 370,
+      "title": "Deer",
+      "category": "Meat"
+    },
+    {
+      "id": "3040",
+      "price": 100,
+      "title": "Banana",
+      "category": "Fruits"
+    },
+    {
+      "id": "d7b6",
+      "price": 80,
+      "title": "Apple",
+      "category": "Fruits"
+    },
+    {
+      "id": "37ee",
+      "price": 160,
+      "title": "Orange",
+      "category": "Fruits"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "title": "Vegetables"
+    },
+    {
+      "id": "2",
+      "title": "Meat"
+    },
+    {
+      "id": "3",
+      "title": "Fruits"
+    }
+  ]
+}

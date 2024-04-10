@@ -1,0 +1,36 @@
+.open-form-btn {
+    width: 150px;
+    transition: all .3s;
+
+    cursor: pointer;
+}
+
+.open-form-btn:hover {
+    background: gray;
+    color: white;
+}
+
+.open-form-btn:active {
+    color: silver;
+}
+
+
+.total-price {
+    border: 2px solid silver;
+    border-radius: .6rem;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    padding: 1rem;
+
+    font-size: 2rem;
+}
+
+.options-box {
+    display: flex;
+    align-items: center;
+
+    justify-content: space-between;
+}

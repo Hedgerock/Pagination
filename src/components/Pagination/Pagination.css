@@ -1,0 +1,31 @@
+.pagination {
+    display: flex;
+
+    align-items: center;
+
+    gap: 1rem;
+}
+
+.pagination__page {
+    border: 1px solid silver;
+    padding: .5rem
+}
+
+.pagination__page,
+.pagination button {
+    transition: all .3s;
+    cursor: pointer;
+}
+
+.pagination__page:hover,
+.pagination__page_active,
+.pagination button:hover {
+    background: gray;
+    color: white;
+}
+
+.pagination__page_active,
+.pagination button:disabled {
+    pointer-events: none;
+    cursor: default;
+}

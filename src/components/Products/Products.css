@@ -1,0 +1,50 @@
+.products {
+    overflow: auto;
+    height: 100%;
+}
+
+.product {
+    padding: 1rem;
+    border: 1px solid silver;
+
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+
+    width: 100%;
+}
+
+.product:not(:last-child) {
+    margin-bottom: -1px;
+}
+
+.product__value {
+    border: 1px solid silver;
+    padding: 1rem;
+    height: 100%;
+    min-height: 56px;
+    min-width: 250px;
+
+    max-width: 55%;
+    text-overflow: ellipsis;
+}
+
+.product__value_title {
+    overflow: hidden;
+}
+
+.product__value_number {
+    border-radius: 50%;
+
+    width: 56px;
+    min-width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 1.2rem;
+}
+
+.product__value_category {
+    margin-left: auto;
+}
